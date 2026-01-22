@@ -55,5 +55,4 @@
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/YourUsername/gemini-codecraft.git](https://github.com/YourUsername/gemini-codecraft.git)
-cd gemini-codecraft
+git clone [https://github.com/graceen2331-prog/AI-Instant-UI-Generator.git
