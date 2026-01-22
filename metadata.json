@@ -1,0 +1,5 @@
+{
+  "name": "代码在线预览",
+  "description": "An AI-powered web prototype generator. Describe your idea, and watch Gemini build a functional, single-page web app with Tailwind CSS in seconds.一款由人工智能驱动的网页原型生成器。描述你的想法，即可观看 Gemini 在几秒钟内使用 Tailwind CSS 构建一个功能齐全的单页 Web 应用。",
+  "requestFramePermissions": []
+}
