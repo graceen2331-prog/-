@@ -1,4 +1,4 @@
-# ⚡ Gemini CodeCraft | AI Instant UI Generator
+# ⚡AI Instant UI Generator 代码结果预览
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
